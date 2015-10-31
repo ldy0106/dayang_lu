@@ -12,3 +12,5 @@ print("Hello, World! I'm Dayang Lu.")
 
 print("hello, world!")
 
+print("I'm DayangLu what's your name")
+
