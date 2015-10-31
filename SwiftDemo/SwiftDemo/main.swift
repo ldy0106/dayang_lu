@@ -10,3 +10,5 @@ import Foundation
 
 print("Hello, World! I'm Dayang Lu.")
 
+print("hello, world!")
+
